@@ -1,6 +1,7 @@
 
 > Open this page at [https://mr-coxall.github.io/microbit_robotbit_servo_motor/](https://mr-coxall.github.io/microbit_robotbit_servo_motor/)
-https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit
+The extension board: https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit
+Mecanum Wheels: https://www.thingiverse.com/thing:3144116 & https://www.youtube.com/watch?v=iGyd6lupO9w
 
 ## Use as Extension
 
